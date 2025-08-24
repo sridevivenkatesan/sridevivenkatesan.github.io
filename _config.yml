@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Sridevi Venkatesan"
 title_separator          : "-"
 name                     : &name "Sridevi Venkatesan"
 description              : &description "Neuroscientist | Computational Biologist"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sridevi Venkatesan"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Neuroscientist trying to wrap her head around the brain"
   location         : "Toronto, Canada"
   employer         : "Hospital for Sick Children | University of Toronto"
   uri              : # URL
@@ -47,14 +47,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/sridevi96"
+  github           : "sridevi96"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   google_plus      : # Username
-  linkedin         : "https://www.linkedin.com/in/sridevi-venkatesan/"
+  linkedin         : "sridevi-venkatesan"
   mastodon         : # URL
   twitter          : # Username for X / Twitter
   wikipedia        : # Username
