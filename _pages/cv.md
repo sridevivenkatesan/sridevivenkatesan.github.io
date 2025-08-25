@@ -18,7 +18,7 @@ Department of Physiology, University of Toronto, Canada
 
 * <b> Bachelor of Science, Biology, 2017 </b>
 Indian Institute of Science, Bangalore, India  
-  * CGPA: 7.0 /8 | Graduated top of the class  
+  * CGPA: 7.0 /8, Graduated top of the class  
   * Honors thesis supervisor: Dr. Deepak Nair  
   Thesis: <i> Synaptic nano-organization in hippocampal neurons during homeostatic scaling </i>  
 
